@@ -1,6 +1,6 @@
-import modalAppearance from "./open.js";
+import openM from "./open.js";
+import closeM from "./close.js";
 
 
-modalAppearance();
-modalClose();
-formValidation();
+openM();
+closeM();
